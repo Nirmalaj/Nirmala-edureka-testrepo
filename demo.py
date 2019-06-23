@@ -1,2 +1,1 @@
-Hi
-Welcome All... This is my First File in Git
+My first file created in master branch
